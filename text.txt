@@ -1,0 +1,114 @@
+ 
+ 
+Profile  
+ 
+Toshendra Kumar Sharma,  
+Founder  
+Wegilant Net Solutions Pvt.Ltd.,  
+Powai, Mumbai 76  
+ 
+Education:  M.Tech (Network Security) IIT Bombay  
+Experience in Cyber Security:  5 years  
+Work Experience:  2 years Part time, 4 year full time  
+Workshops Delivered:  150+ Workshops   on Ethical hacking & 
+Embedded System (Including 3 IITs, NITs and many reputed Govt. and Private Colleges)  
+Awards and prizes:  
+ 2 times Junior Scient ist Award by NCSC  
+ Ist Prize in national level Robotics Challenge at IIT Bombay in Techfest 2005  
+ 14 First Prizes, 6 Second Prizes and many third prizes in programming & technical contest in 
+many technical festival in engineering colleges of India  
+ 
+RREESSEEAARRCCHH  AANNDD  AACCAADDEEMMIICC  PPRROOJJEECCTTSS  
+ 
+Ettercap & ARP Poisioning  @ IIT Bombay  
+ The project aimed to make a defense mechanism for ARP poisoning.  
+ Project uses ARP Cop plugin  with slight modification for detecting the IP Change  
+ 
+DNS & DNSSEC, Problems & Solutions  Seminar  @ IIT Bombay   
+ Detailed analysis of DNS Protocol  
+ Practical implementation on Kaminsky Attack using Metasploit  
+ Vulnerabilities & Problem s in DNSSEC  
+ Replay Attack in DNSSEC  
+ 
+Attacks on Bluetooth Devices  @ IIT Bombay   
+ 
+ 
+ Detailed analysis Bluetooth protocol  
+ Practical implementation on Car whisperer  Attack  
+ Vulnerabilities & Problems in Bluetooth  
+ 
+Privacy locker 1.1 (Firefox Addon)    
+ The Prim ary Objective of privacy locker was to lock the privacy contained menus of the mozilla 
+firefox browser. The Locker can lock the three menus History, Bookmarks and Tools menu with 
+a password.  
+ Online link of the Addon is https://addons.mozilla.org/en -US/firefox/addon/10637/  
+ 
+Minos: Control Data Attack Prevention Orthogonal to Memory Model  
+ Micro -architecture for protecting against control data attacks  
+ A substitute of AS/400 Technology  
+ 
+SQL Injection Vulnerability in pkmotors.com  
+ Found SQL Injection vulnerabilities in pkmotors.com  
+ Found SQL Injection in tartanarmy.com  
+ 
+ 
+XOM Based Protection against Software tempering  
+  Hardware based  solution using eXecute  Only Memory for the software tempering  
+ 
+Cold Boot Attack  [Presentation ] 
+ Recovering encryption key of RSA from DRAM using cold boot attack  
+ Dumping RAM in to USB Drive using SYSLINUX  
+ Side Channel Attack  
+ 
+3D G ame Development using Open source Game engine  
+ This is a First Person Shooting computer 3D game with a Do or Die theme. The game has few 
+Autonomous Enemy BOTs.  
+ The Game has feeling like Counter Strike with nice environment and theme  
+ The game was developed using open source technology:  
+ Blender: For 3D Modeling  
+o  Bullet Physics: For Physics  
+o  Python: For programming  
+ 
+  
+ 
+Development of MATLAB Based Ball tracker Robot    
+ The Primary Objective of the robot was to follow the ball while using USB web camera for 
+takin g continuous images of the arena.   
+ The ball was searched using MATLAB image acquisition and processing tooll boxes. These boxes 
+helped in acquiring and processing the image for detecting ball.  
+ Algorithm was to search for Hue, Saturation and Value rather than searching Red, Green and 
+Blue after enhancing the image for better result.  
+ 
+ 
+Worked on many tools and systems for exploiting the vulnerabilities in the software, network 
+(LAN/Internet), applications   
+ Metasploit  
+ Ettercap  
+ Nmap, Zenmap  
+ Armitage  
+ Nessus  
+ Cybergate  
+ BackTrack 5 R1  
+ Software Engineering toolkit  
+ Honeypot  
+ Bluesnarf  
+  Maltego  
+ SQL Injectors  
+ Tor Project  
+ VPNs  
+ DVWA  
+ Wireshark  
+ Crazycall  
+ Smsglobal  
+ Etc. 
+ 
+PPUUBBLLIICCAATTIIOONNSS  
+ 
+ Written and holding copyright of a Book “Robotics with AVR” under Robosapiens India 
+Publications  
+o Online link of the book : http://www.robosapiensindia.com/cookbook/  
+o More than 1000 copies of the book have already been sold.  
+ 
+ Writing another menuscript on Ethical Hacking under name Art of Hacking.  
+ 
+ 
